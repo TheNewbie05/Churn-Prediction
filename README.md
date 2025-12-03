@@ -1,0 +1,1 @@
+This project aims to predict the status of telecom customers (whether they Stayed, Churned, or Joined) based on various service and usage patterns. The project utilizes machine learning techniques to analyze customer demographics, account information, and service details to identify factors contributing to customer churn.
